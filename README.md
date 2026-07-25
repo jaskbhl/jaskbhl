@@ -51,10 +51,7 @@
 
 ### 🤝 Connect
 
-<!-- Fill these in (delete the ones you don't use): -->
-- 🌐 Website: `<your-site>`
-- 💼 LinkedIn: `<your-linkedin>`
-- ✉️ Email: `<your-email>`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_SB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sb/)
 
 <!--
 Tip: this README (in the special jaskbhl/jaskbhl repo) is what shows at the top
