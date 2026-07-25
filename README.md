@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-stack engineer</b><br/>
-  Shipping real products end-to-end: multi-tenant backends, polished UIs, and AI-powered features.
+  Building and shipping products end-to-end.
 </p>
 
 <!-- Personalize me: add your name, role, and a one-line bio below. -->
