@@ -40,18 +40,10 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaskbhl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="jaskbhl's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskbhl&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
-</p>
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_SB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sb/)
+[![GitHub followers](https://img.shields.io/github/followers/jaskbhl?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/jaskbhl)
 
 <!--
 Tip: this README (in the special jaskbhl/jaskbhl repo) is what shows at the top
