@@ -5,10 +5,6 @@
   Building and shipping products end-to-end.
 </p>
 
-<!-- Personalize me: add your name, role, and a one-line bio below. -->
-<!--
-> 👤 <Your name> · <Role / what you're building> · <Location>
--->
 
 ---
 
@@ -69,7 +65,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_SB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sb/)
 [![GitHub followers](https://img.shields.io/github/followers/jaskbhl?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/jaskbhl)
 
-<!--
-Tip: this README (in the special jaskbhl/jaskbhl repo) is what shows at the top
-of your GitHub profile. Edit it any time; changes appear on your profile page.
--->
